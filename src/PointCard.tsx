@@ -111,18 +111,6 @@ export default function PointCard() {
           ))}
         </div>
       </div>
-
-      {/* フッター */}
-      <footer className="fixed bottom-0 left-0 right-0 bg-black p-4 flex justify-around">
-        <button className="flex flex-col items-center">
-          <Star className="mb-1" />
-          <span className="text-xs">ポイント</span>
-        </button>
-        <button className="flex flex-col items-center">
-          <CupSoda className="mb-1" />
-          <span className="text-xs">メニュー</span>
-        </button>
-      </footer>
     </div>
   );
 }
