@@ -2,7 +2,7 @@
   "name": "appp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yuuya-apple.github.io/demo_point_card/",
+  "homepage": "https://yuuya-apple.github.io/demo_point_card",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
